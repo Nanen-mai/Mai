@@ -1,5 +1,5 @@
 # Mai
-Marlen, 17 años
+Marlen
 
  Tema: Publicación de páginas web
  ¿Qué es GitHub?
